@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@1,600&family=Open+Sans:wght@300&display=swap');
 
 body {
-  background-color: #AEFEFF;
+  background-color: #DEF5E5;
   font-family: 'Open Sans';
   color: #072227;
   font-weight: 200;
@@ -22,7 +22,7 @@ ul {
   padding: 0px;
 }
 a {
-  color: #35858B;
+  color: #BCEAD5;
   text-decoration: none;
 }
 
@@ -31,7 +31,7 @@ a:hover {
 }
 
 .card {
-  background-color: #4FBDBA;
+  background-color: #9ED5C5;
   box-shadow: 2px 2px 35px black;
   padding: 20px;
   margin: 20px auto;
