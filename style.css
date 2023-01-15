@@ -12,7 +12,6 @@ body {
 
 .topnav {
   width: 100%;
-  /* background: ; */
   padding-right: 10px;
   border-bottom: 1px solid #263159;
   overflow: hidden;
@@ -22,7 +21,7 @@ body {
   float: right;
   text-align: center;
   padding: 20px;
-  font-size: 20px;
+  font-size: 17px;
   transition: 0.3s;
   color: #251749;
   font-weight: bold;
@@ -58,13 +57,13 @@ body {
 }
 
 h1 {
-  font-family: 'Libre Franklin';
-  font-size: 60px;
+  font-family: 'Libre Franklin', 'Ghandi Sans';
+  font-size: 50px;
   font-weight: 800;
 }
 
 .description {
-  font-family: 'Libre Franklin';
+  font-family: 'Libre Franklin', 'Ghandi Sans';
   font-size: 21px;
   font-weight: 700;
   margin-bottom: 20px;
