@@ -18,7 +18,7 @@ a {
 
 body {
   background-color: #fdf6da;
-  font-family: 'Libre Franklin';
+  font-family: 'Libre Franklin', 'Ghandi Sans', sans-serif;
   color: #072227;
   font-weight: 500;
   text-align: center;
@@ -76,13 +76,13 @@ body {
 }
 
 h1 {
-  font-family: 'Libre Franklin', 'Ghandi Sans';
+  font-family: 'Libre Franklin', 'Ghandi Sans', sans-serif;
   font-size: 50px;
   font-weight: 800;
 }
 
 .description {
-  font-family: 'Libre Franklin', 'Ghandi Sans';
+  font-family: 'Libre Franklin', 'Ghandi Sans', sans-serif;
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 15px;
