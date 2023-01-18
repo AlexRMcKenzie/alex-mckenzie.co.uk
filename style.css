@@ -98,6 +98,11 @@ h1 {
   filter: grayscale(100%);
 }
 
+p {
+  letter-spacing: 2px;
+  font-style: normal;
+}
+
 /* ABOUT ME */
 
 .about-me {
@@ -113,6 +118,7 @@ h1 {
   color: #263159;
   padding-bottom: 15px;
   padding-top: -10px;
+
 }
 
 .about-me a {
