@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@800&family=Libre+Franklin:ital,wght@0,200;1,300;1,600;1,700&display=swap');
 @import url("popup.css");
 
 * {
@@ -79,6 +79,7 @@ h1 {
   font-family: 'Libre Franklin', 'Ghandi Sans', sans-serif;
   font-size: 50px;
   font-weight: 800;
+  font-style: italic;
 }
 
 .description {
